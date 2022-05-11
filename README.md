@@ -1,9 +1,14 @@
-# Foobar
+# CryptoCurrency Forecast
+
+El siguiente proyecto consiste en un análisis de datos de tres crypto divisas distintas (Bitcoin, XRP y Ethereum), para detectar fluctuaciones de precios y sus
+posibles razones, seguido de la creación de un modelo de 
+
+
 
 Foobar is a 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
 pip install foobar
@@ -11,23 +16,8 @@ pip install foobar
 
 ## Usage
 
-```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
