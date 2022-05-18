@@ -4,12 +4,16 @@ The following project consists of an analysis of data from three different crypt
 
 ## Installation
 
-In addition to the use of jupyter notebook, it will be necessary to install the following libraries:
-
-Pyspark, tqdm, pyArrow, sklearn and HMMLearn
-
-that can be installed using the following command on a jupyter cell 
+In addition to the use of jupyter notebook, it will be necessary to install some libraries that can be installed using the following command on a jupyter cell 
 
 ```bash
-!python -m pip install --user "Library name"
+!python -m pip install --user pyspark
+!python -m pip install --user tqdm
+!python -m pip install --user matplotlib
+!python -m pip install --user pyArrow
+!python -m pip install --user sklearn
+!python -m pip install --user seaborn
+!python -m pip install --user hmmlearn
+!python -m pip install --user itertools
+!python -m pip install --user json
 ```
